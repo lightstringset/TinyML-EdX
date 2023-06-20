@@ -1,0 +1,1 @@
+In this video, the instructor led us through different ways complex machine learning algorithms are broen down to make them small and compress them in order ro be used in TinyML
